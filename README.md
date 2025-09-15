@@ -1,7 +1,5 @@
 # Sistem Deteksi Penipuan Transaksi Finansial Berbasis Machine Learning 💳
 
-![Project Banner](https://i.imgur.com/8a2eJ2c.png)
-
 <p align="center">
   <img src="https://img.shields.io/badge/status-selesai-brightgreen?style=for-the-badge" alt="Project Status">
   <img src="https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python" alt="Python Version">
@@ -71,8 +69,8 @@ Untuk menjalankan aplikasi ini di komputer Anda, ikuti langkah-langkah berikut:
 ### 2. **Clone Repositori**
 Buka terminal dan jalankan perintah berikut untuk mengunduh proyek:
 ```bash
-git clone [https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git](https://github.com/NAMA_USER_ANDA/NAMA_REPO_ANDA.git)
-cd NAMA_REPO_ANDA
+https://github.com/ifauzeee/fraud-detection-streamlit-app
+cd fraud-detection-streamlit-app
 ```
 
 ### 3. **Siapkan Lingkungan Anaconda**
