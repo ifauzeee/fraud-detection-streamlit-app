@@ -1,0 +1,19 @@
+# Lingkungan Virtual
+/venv/
+/env/
+.env
+
+# File Cache Python
+__pycache__/
+*.pyc
+
+# File Model Machine Learning
+*.pkl
+*.h5
+
+# File Dataset Besar
+*.csv
+
+# Folder spesifik IDE/Editor
+.vscode/
+.idea/
